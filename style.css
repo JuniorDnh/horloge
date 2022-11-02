@@ -16,6 +16,7 @@
   }
   
   .title {
+    margin-top: 1rem;
     font: 36px Arial;
     letter-spacing: 0.1em;
     padding: 10px 5px;
